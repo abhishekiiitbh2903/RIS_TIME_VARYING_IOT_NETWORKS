@@ -16,7 +16,7 @@ It aims to study and mitigate signal degradation in limited feedback conditions 
 
 This work is an extension of our team ongoing research on **RIS-assisted 6G IoT networks** and corresponds to the findings discussed in the paper:
 
-> 📄 [Attention-Guided Encoder-Decoder Design for Efficient RIS Phase Configuration in Time-Varying IoT Networks](https://ieeexplore.ieee.org/abstract/document/11168457)  
+> 📄 [BORCAE: Bayesian Optimized Residual Convolutional Autoencoder for Efficient Feedback Compression in RIS-Assisted Time-Varying IoT Networks](https://ieeexplore.ieee.org/abstract/document/11168457)  
 > _IEEE Transactions on Artificial Intelligence, 2025._
 
 ---
